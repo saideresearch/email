@@ -1,14 +1,14 @@
-# Ultimate Phishing Email Analyzer
+# Ultimate Email Analyzer
 
 **A free, open-source SOC tool for comprehensive email threat analysis**
 
 ## Project Description
 
-The **Ultimate Phishing Email Analyzer** is a professional-grade security tool designed for SOC analysts, security researchers, and incident responders. It provides real-time analysis of suspicious emails using multiple free threat intelligence sources to detect phishing attempts, malicious URLs, and email authentication failures.
+The **Ultimate Email Analyzer** is a professional-grade security tool designed for SOC analysts, security researchers, and incident responders. It provides real-time analysis of suspicious emails using multiple free threat intelligence sources to detect phishing attempts, malicious URLs, and email authentication failures.
 
 ## Key Capabilities
 
-- **Multi-Source Threat Intelligence**: Integrates 7+ free open-source threat feeds including AlienVault OTX, AbuseIPDB, NERD Network, CrowdSec, and URLScan.io
+- **Multi-Source Threat Intelligence**: Integrates 7+ free open-source threat feeds, including AlienVault OTX, AbuseIPDB, NERD Network, CrowdSec, and URLScan.io
 - **IOC Extraction**: Automatically extracts Indicators of Compromise (IPs, domains, URLs, email addresses, file hashes)
 - **Email Authentication Analysis**: SPF, DKIM, DMARC validation with detailed results
 - **URL Deep Scan**: Detects typosquatting, URL shorteners, suspicious TLDs, and brand impersonation
@@ -17,13 +17,13 @@ The **Ultimate Phishing Email Analyzer** is a professional-grade security tool d
 
 ## Live Preview
 
-[https://offsecboy.github.io/phishing-email-analyzer/](https://offsecboy.github.io/phishing-email-analyzer/)
+[https://saideresearch.github.io/email/](https://saideresearch.github.io/email/)
 
 ## Features
 
 - 100% free and open-source
 - No API keys required
-- Runs entirely in browser - no data leaves your machine
+- Runs entirely in the browser - no data leaves your machine
 - SOC-optimized dark theme
 - Real-time analysis engine
 - 7 integrated threat intelligence sources
